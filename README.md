@@ -1,3 +1,43 @@
+
+# Creating a AI based WEB tool
+
+
+
+## Tech Stack
+
+**Client:** NextJS 13, Clerk Authentication, TailwindCSS, Shadcn/ui
+
+**Server:** project on progress 
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/PratikPradhan987/SaaSAI.git
+```
+
+Go to the project directory
+
+```bash
+  cd SaaSAI/saas-ai
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
