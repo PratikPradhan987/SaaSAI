@@ -1,3 +1,45 @@
+
+# Creating a AI based WEB tool
+
+
+
+## Tech Stack
+
+**Client:** NextJS 13, Clerk Authentication, TailwindCSS, Shadcn/ui
+
+**Server:** project on progress 
+![image](https://github.com/PratikPradhan987/SaaSAI/blob/main/resource/screenshot/clerk%20auth.png)
+![image](https://github.com/PratikPradhan987/SaaSAI/blob/main/resource/screenshot/shadcn-ui.png)
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/PratikPradhan987/SaaSAI.git
+```
+
+Go to the project directory
+
+```bash
+  cd SaaSAI/saas-ai
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +74,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
