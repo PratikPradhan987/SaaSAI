@@ -8,6 +8,8 @@
 **Client:** NextJS 13, Clerk Authentication, TailwindCSS, Shadcn/ui
 
 **Server:** project on progress 
+![image](https://github.com/PratikPradhan987/SaaSAI/blob/main/resource/screenshot/clerk%20auth.png)
+![image](https://github.com/PratikPradhan987/SaaSAI/blob/main/resource/screenshot/shadcn-ui.png)
 
 
 ## Run Locally
@@ -73,5 +75,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-![image](https://github.com/PratikPradhan987/SaaSAI/blob/main/resource/screenshot/clerk%20auth.png)
+
 
