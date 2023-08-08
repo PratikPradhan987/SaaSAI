@@ -1,7 +1,10 @@
 
 # Creating a AI based WEB tool
+![image](https://github.com/PratikPradhan987/SaaSAI/blob/main/resource/screenshot/yinsi.png)
 
-
+Yinsi is an opensource OpenAI project which is replicates the features of ChatGPT
+User can ask question 
+With the help of OpenAI it can answer most of the questions
 
 ## Tech Stack
 
