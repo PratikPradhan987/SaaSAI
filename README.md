@@ -32,6 +32,13 @@ Go to the project directory
   cd SaaSAI/saas-ai
 ```
 
+Configure environment variables
+
+```bash
+  login to clerk authentication and access its key
+  access OpenAI API Key
+```
+
 Install dependencies
 
 ```bash
